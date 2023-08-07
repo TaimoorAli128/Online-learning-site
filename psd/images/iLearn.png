@@ -1,0 +1,412 @@
+<!doctype html>
+<html lang="en">
+
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!-- fontawesome all CSS -->
+    <link rel="stylesheet" href="css/all.min.css">
+    <!-- fontawesome min CSS -->
+    <link rel="stylesheet" href="css/fontawesome.min.css">
+    <!-- animation CSS -->
+    <link rel="stylesheet" href="css/animate.css">
+    <!-- owl carousel CSS -->
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/style.css">
+    <title>iLearn</title>
+    <link rel="icon" href="img/main-logo.png" type="image/x-icon" />
+  </head>
+
+  <body>
+
+    <!-- header start -->
+    <header>
+       <div class="bg-2-color">
+                <div class="container">
+                     <div class="top-bar">
+                        <ul>
+                            <li >
+                                <a href="login.html"> <i class="fas fa-user"></i>  Login</a>
+                            </li>
+                            <li >
+                                <a href="#">  | </a>
+                            </li>
+                            <li ><a href="signup.html"><i class="fas fa-user-plus "></i>  Sign Up </a>
+                        </li>
+                        <li >
+                          <form action="#">
+                            <div class="input-group">
+                                <input type="text" class="form-control custom-style" placeholder="Search this blog">
+                                <div class="input-group-append">
+                                    <button class="btn btn-secondary" type="submit">
+                                    <i class="fa fa-search"></i>
+                                    </button>
+                                </div>
+                            </div>
+                          </form>
+
+                        </li>
+                    </ul>
+                </div>
+                </div>
+            </div>
+      <div class="container">
+        
+
+
+     
+         
+       
+        <!-- navbar section start -->
+        
+        <div class="navigation-bar">
+          <nav class="navbar navbar-expand-lg  ">
+            <a class="navbar-brand" href="index.html"><img src="img/main-logo.png" class=""></a>
+            <button class="navbar-toggler custom-toggler" type="button" data-toggle="collapse"
+              data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+              aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon "></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <ul class="navbar-nav  ml-auto ">
+                <li class="nav-item active">
+                  <a class="nav-link" href="#">BOOK ONLINE<span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="teacher.html">TEACHERS</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#">TOTURING</a>
+                </li>
+                <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" href="http://example.com" id="navbarDropdownMenuLink"
+                    data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    SCHOOLING
+                  </a>
+                  <ul class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownMenuLink">
+                    <li><a class="dropdown-item" href="#">Action</a></li>
+                    <li><a class="dropdown-item" href="#">Another action</a></li>
+                  </ul>
+                  <li class="nav-item">
+                  <a class="nav-link" href="about.html">ABOUT US</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="contact.html">CONTACT US</a>
+                </li>
+              </ul>
+            </div>
+          </nav>
+        </div> 
+        <!-- navbar section end-->
+      </div>
+    </header>
+    <!-- header end -->
+
+    <!-- slider start -->
+    <div id="demo" class="carousel slide" data-ride="carousel">
+      <div class="indicator-style">
+      <ul class="carousel-indicators s-cap flex-column d-flex justify-content-center">
+        <li data-target="#demo" data-slide-to="0" class="active"></li>
+        <li data-target="#demo" data-slide-to="1"></li>
+        <li data-target="#demo" data-slide-to="2"></li>
+      </ul>
+    </div>
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img class="w-100" src="img/slider-1.jpg" alt="Los Angeles">
+          <div class="carousel-caption custom-style s-cap flex-column d-flex justify-content-center">
+        <h2>ONLINE TUTORING</h2>
+        <p>FOR ANYONE</p>
+       
+      </div> 
+        </div>
+        <div class="carousel-item">
+          <img class="w-100" src="img/slider-2.jpg" alt="Chicago">
+          <div class="carousel-caption custom-style s-cap flex-column d-flex justify-content-center">
+        <h2>ONLINE TUTORING</h2>
+        <p>FOR ANYONE</p>
+      </div> 
+        </div>
+        <div class="carousel-item">
+          <img class="w-100" src="img/slider-3.jpg" alt="New York">
+          <div class="carousel-caption custom-style s-cap flex-column d-flex justify-content-center">
+        <h2>ONLINE TUTORING</h2>
+        <p>FOR ANYONE</p>
+         
+      </div> 
+        </div>
+      </div>
+    
+
+      <a class="carousel-control-prev" href="#demo" data-slide="prev">
+        <span class="carousel-control-prev-icon"></span>
+      </a>
+      <a class="carousel-control-next" href="#demo" data-slide="next">
+        <span class="carousel-control-next-icon"></span>
+      </a>
+    </div>
+    </div>
+    <!-- slider end -->
+
+
+
+    <div class="second-section">
+      <h3>WELCOME TO iLEARN</h3>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="content-section">
+              <p>Pellentesque eget sodales purus. Maecenas purus elit, laoreet eu bibendum in, porta in leo. Interdum et
+                malesuada fames
+                ac ante ipsum primis in faucibus. Ut et dolor leo. Cras in mollis lectus. Maecenas laoreet ante at
+                pharetra maximus.
+                Donec varius erat at risus auctor, at efficitur ligula vulputate. Nulla luctus purus eu sapien mollis
+                accumsan. Fusce
+                sollicitudin elit eu nibh consequat, id viverra arcu tincidunt. In feugiat neque vitae ante laoreet
+                ornare. Integer
+                bibendum porta neque, vel malesuada odio imperdiet porttitor. Vestibulum ac ornare lacus. Donec vel arcu
+                nec orci
+                efficitur volutpat nec quis nisl. Mauris gravida cursus lectus, suscipit euismod leo facilisis sit amet.
+                Cras aliquet
+                posuere sollicitudin. Curabitur varius, odio eu auctor ornare, arcu turpis egestas urna, id maximus
+                dolor tortor eu
+                arcu.</p>
+              <a href="#">
+                <p>READ MORE...</p>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="third-section">
+      <h3>EVENTS</h3>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <!-- single event -->
+            <div class="event">
+              <img src="img/events/1.png" class="img-fluid img-container" alt="">
+              <div class="event-desc white">
+                <h5>HOME SCHOOLING</h5>
+                <p>It has a more-or-less normal distribution of letters, as opposed to using</p>
+                <img src="img/icon1.png" alt="">
+                <h6><a href="">publishing packages</a></h6>
+              </div>
+            </div>
+            <!-- end single event -->
+          </div>
+          <div class="col-md-6">
+            <!-- single event -->
+            <div class="event">
+              <img src="img/events/2.png" class="img-fluid img-container" alt="">
+              <div class="event-desc yellow">
+                <h5>book online</h5>
+                <p>It has a more-or-less normal distribution of letters, as opposed to using</p>
+                <img src="img/icon2.png" alt="">
+                <h6><a href="">publishing packages</a></h6>
+              </div>
+            </div>
+            <!-- end single event -->
+          </div>
+          <div class="col-md-6">
+            <!-- single event -->
+            <div class="event">
+              <img src="img/events/3.png" class="img-fluid img-container" alt="">
+              <div class="event-desc red">
+                <h5>workshops</h5>
+                <p>It has a more-or-less normal distribution of letters, as opposed to using</p>
+                <img src="img/icon3.png" alt="">
+                <h6><a href="">publishing packages</a></h6>
+              </div>
+            </div>
+            <!-- end single event -->
+          </div>
+          <div class="col-md-6">
+            <!-- single event -->
+            <div class="event">
+              <img src="img/events/4.png" class="img-fluid img-container" alt="">
+              <div class="event-desc black">
+                <h5>tutoring</h5>
+                <p>It has a more-or-less normal distribution of letters, as opposed to using</p>
+                <img src="img/icon4.png" alt="">
+                <h6><a href="">publishing packages</a></h6>
+              </div>
+            </div>
+            <!-- end single event -->
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fourth-section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <img src="img/img-1.jpg" class="img-fluid" alt="">
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- fifth section start -->
+
+     
+      <section class="fifth-section">
+      <h3>OUR COURSES</h3>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="owl-carousel owl-theme">
+            
+              <div class="item">
+                <div class="course-item">
+                  <div class="overlay-effect"></div>
+                  <img src="img/carousel/1.png" class="img-fluid" alt="">
+                  <h5>Course 1</h5>
+                  <div class="middle">
+                    <i class="fab fa-3x fa-youtube"></i>
+                  </div>
+                </div>
+              </div>
+            
+              <div class="item">
+                <div class="course-item">
+                  <div class="overlay-effect"></div>
+                  <img src="img/carousel/2.png" class="img-fluid" alt="">
+                  <h5>Course 2</h5>
+                  <div class="middle">
+                    <i class="fab fa-3x fa-youtube"></i>
+                  </div>
+                </div>
+              </div>
+            
+              <div class="item">
+                <div class="course-item">
+                  <div class="overlay-effect"></div>
+                  <img src="img/carousel/3.png" class="img-fluid" alt="">
+                  <h5>Course 3</h5>
+                  <div class="middle">
+                    <i class="fab fa-3x fa-youtube"></i>
+                  </div>
+                </div>
+              </div>
+            
+              <div class="item">
+                <div class="course-item">
+                  <div class="overlay-effect"></div>
+                  <img src="img/carousel/4.png" class="img-fluid" alt="">
+                  <h5>Course 4</h5>
+                  <div class="middle">
+                    <i class="fab fa-3x fa-youtube"></i>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+    <!-- fifth section end -->
+
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-2 col-sm-6">
+            <h5>Site map</h5>
+            <ul>
+              <li><a href="">Home</a></li>
+              <li><a href="about.html">About Us</a></li>
+              <li><a href="">Whats New</a></li>
+               <li><a href="privacy-policy.html">Privacy Policy</a></li>
+               <li><a href="faq.html">FAQ</a></li>
+            </ul>
+          </div>
+          <div class="col-md-2 col-sm-6">
+            <h5>Shop by</h5>
+            <ul>
+              <li><a href="">How to order</a></li>
+              <li><a href="">how to use coupen code</a></li>
+              <li><a href="">shipping & custom</a></li>
+            </ul>
+          </div>
+          <div class="col-md-3 col-sm-6">
+            <h5>help</h5>
+            <ul>
+              <li><a href="">customer services</a></li>
+              <li><a href="">delivery info</a></li>
+              <li><a href="termandconditions.html">terms &amp; conditions</a></li>
+              <li><a href="">returns</a></li>
+              <li><a href="">email us</a></li>
+            </ul>
+          </div>
+          <div class="col-md-2 col-sm-6">
+            <h5>social media</h5>
+            <ul>
+              <li><a href="">blog</a> </li>
+              <li><a href="">facebook</a></li>
+              <li><a href="">twitter</a></li>
+            </ul>
+          </div>
+          <div class="col-md-3 col-sm-6 payment">
+            <h5>payment method</h5>
+            <ul>
+              <li><a href="">visa card</a></li>
+              <li><a href="">master card</a></li>
+              <li><a href="">PayPal</a></li>
+              <li><a href="">bank transfer</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-6 my-2">
+            <div class="input-group">
+              <label for="text">Newsletter</label>
+              <input type="text" class="form-control" placeholder="Email Address" aria-label="Email Address"
+                aria-describedby="button-addon2">
+              <div class="input-group-append">
+                <button class="btn btn-orange" type="button" id="button-addon2">Sign Up</button>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3 my-2">
+            <div class="payment-icons">
+              <img src="img/payment-icons2.png" class="img-fluid" alt="">
+            </div>
+          </div>
+          <div class="col-md-3 my-2">
+            <div class="copy-line">
+              <p>Copyright &copy; 2020 <a href="https://haramayngroup.com">Haramayngroup</a> .All right reserved</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <a id="gotopbtn" href="#"><i class="fas  fa-3x fa-long-arrow-alt-up"></i> </a>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+
+    <script src="js/jquery-3.2.1.slim.min.js"></script>
+    <script src="js/all.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/wow.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script>
+      new WOW().init();
+    </script>
+    <script src="js/custom.js"></script>
+  </body>
+
+</html>
